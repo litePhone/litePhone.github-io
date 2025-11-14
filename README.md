@@ -33,14 +33,4 @@ Create a functional text-messaging interface and develop a custom utilities appl
 
 This project is licensed under the **GNU General Public License v3.0** (GNU GPL v3).
 
-You are free to:
-- ✅ Use this software for any purpose
-- ✅ Study and modify the source code
-- ✅ Distribute copies of the software and your modifications
-
-Under the condition that:
-- 📋 You include a copy of the license with any distribution
-- 📋 You disclose the source code when distributing the software
-- 📋 Any modifications or derivative works must also be licensed under GNU GPL v3
-
 For more information, see the [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0.html)
