@@ -1,2 +1,2 @@
-# litePhone.github-io
-litePhone Labs Website
+# Labs
+[Lab 1](/Lab1)
